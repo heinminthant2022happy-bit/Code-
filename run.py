@@ -1,8 +1,0 @@
-import aa
-
-if name == "main":
-    try:
-        # aa.so ထဲက main() ကို ခေါ်သုံးခြင်း
-        aa.main()
-    except Exception as e:
-        print(f"Error: {e}")
